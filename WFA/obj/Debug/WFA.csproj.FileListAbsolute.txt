@@ -1,0 +1,10 @@
+C:\Users\User\source\repos\WFA\bin\Debug\WFA.exe.config
+C:\Users\User\source\repos\WFA\bin\Debug\WFA.exe
+C:\Users\User\source\repos\WFA\bin\Debug\WFA.pdb
+C:\Users\User\source\repos\WFA\obj\Debug\WFA.csprojAssemblyReference.cache
+C:\Users\User\source\repos\WFA\obj\Debug\WFA.Form1.resources
+C:\Users\User\source\repos\WFA\obj\Debug\WFA.Properties.Resources.resources
+C:\Users\User\source\repos\WFA\obj\Debug\WFA.csproj.GenerateResource.cache
+C:\Users\User\source\repos\WFA\obj\Debug\WFA.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\WFA\obj\Debug\WFA.exe
+C:\Users\User\source\repos\WFA\obj\Debug\WFA.pdb
